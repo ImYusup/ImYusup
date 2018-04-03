@@ -1,0 +1,75 @@
+body {
+    background-image: url(sample-pattern.png);
+    background-size: cover; 
+    background-repeat: repeat;
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background: white;
+    height: 100%
+    margin: 0px;
+    padding: 10px;
+}
+
+header ul {
+
+    list-style: none;
+    text-align: right;
+    width: 1250px;
+    font-weight: bold;
+}
+
+header li {
+    display: inline;
+    text-decoration: none;
+    padding: 10px;
+    height: 1px;
+    color: steelblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+ float: left;
+}
+
+#article-list {
+    background-color: white;
+    left: 15%;
+    right: auto;
+    position: absolute;
+    width: 70%;
+    height: 75%;
+}
+
+#article-list h3 {
+    color: steelblue;
+    font-weight: bold;
+}
+
+/* semua tag pada h1*/
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    color: darkgrey;
+}
+
+footer {
+    padding: 5px;
+    background-color: black;
+    position: absolute;
+    width: 100%;
+    top: 650px;
+}
+
+footer h5{
+    text-align: center;
+    color: white;
+      width: 100%;
+}

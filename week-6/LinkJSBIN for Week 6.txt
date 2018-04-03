@@ -1,0 +1,5 @@
+1. https://jsbin.com/kimigof/edit?js,console
+[Exercises 1] Mengubah Sintaks ES5 ke ES6
+
+2. http://jsbin.com/doxasam/1/edit?js,console
+[Exercises 2] Menggunakan Map, Filter, dan Reduce di JavaScript untuk menyelesaikan kasus sederhana
